@@ -1,0 +1,1 @@
+# mta-license-whitelist
